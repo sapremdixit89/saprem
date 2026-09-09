@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>info</key>
+        <language>en</language>
+        <message>This is an information</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-09 12:57:17</sys_created_on>
+        <sys_id>65a7d7d8c41303107f440f9de391b2cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>info</sys_name>
+        <sys_package display_value="EventTracker" source="x_snc_eventtracker">dfc49358c41303107f440f9de391b2da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventTracker">dfc49358c41303107f440f9de391b2da</sys_scope>
+        <sys_update_name>sys_ui_message_65a7d7d8c41303107f440f9de391b2cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-09 12:57:17</sys_updated_on>
+    </sys_ui_message>
+</record_update>
